@@ -1,0 +1,14 @@
+//
+// Created by vibho on 03-07-2023.
+//
+
+#ifndef RUBIKSCUBESOLVERV1_0_0_GENERICCUBE_H
+#define RUBIKSCUBESOLVERV1_0_0_GENERICCUBE_H
+
+
+class GenericCube {
+
+};
+
+
+#endif //RUBIKSCUBESOLVERV1_0_0_GENERICCUBE_H
